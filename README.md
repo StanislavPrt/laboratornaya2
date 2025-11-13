@@ -1,3 +1,3 @@
-# laboratornaya2
+# laboratornaya4
 OP Samara University Lab
 Файл содержит 4 лабораторную работу по Основам Программирования
